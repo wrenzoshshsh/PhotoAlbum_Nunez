@@ -1,59 +1,65 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# My Photo Album Gallery Documentation
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+---
 
-## About Laravel
+## 💻 Program Overview
+This photo album application is developed using the **Laravel Framework,** with the interface designed through **HTML, CSS, and Laravel’s Blade templating engine**.
+A **MySQL database**, managed through **Laragon,** stores and organizes image information for smooth retrieval and display.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🖼️ Activity Title
+**My Personal Photo Album Collection**
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## 👤 Author
+**Wrenzyehl Mardy A. Nunez**
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 📝 Description of Pages and Categories
+This application is structured for **simple navigation** and a **consistent visual layout.** Laravel’s Blade templates ensure that every page follows the same design system, making the entire album easy to explore.
 
-## Laravel Sponsors
+### Core Page Structure
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+* **Layout** (`app.blade.php`): Serves as the **main template layout** for my application. It contains the essential HTML structure, **navigation bar**, and **footer**, ensuring consistency across all content pages. All other pages extend this layout.
+* **Homepage** (`Homepage.blade.php`): Displays a **welcome message** and acts as the **primary entry point** to the entire photo collection.
+* **Category Pages** (`/views/pages`): Dedicated view files that render specific collections of images. Each page displays all images relevant to its specific category.
 
-### Premium Partners
+### Categories Included
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+The photo collection is divided into the following different categories:
 
-## Contributing
+* **Animals**: A gallery showcasing various animals from **household pets** to **wildlife species** captured in different environments.
+* **Country**: Images representing different countries, including **scenery, architecture, culture, and iconic landmarks**.
+* **Food**: A **colorful collection** of delicious food photographs, featuring meals, snacks, desserts, and unique dishes.
+* **Flowers**: A visually pleasing set of **flower photographs, highlighting different species, colors, and natural beauty**.
+* **Formula 1**: A high-energy gallery featuring **Formula 1 cars, racing scenes, and iconic moments from the motorsport world**.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+___
 
-## Code of Conduct
+## 📸 Screenshot
+![Screenshot]<img width="1910" height="862" alt="home page" src="https://github.com/user-attachments/assets/44752883-c7b0-486f-9847-004ae6806f46" />
+![Screenshot]<img width="1903" height="952" alt="page 1" src="https://github.com/user-attachments/assets/fea3e27d-7a1d-4f85-a0b4-56b130538127" />
+![Screenshot]<img width="1907" height="965" alt="page 1 2" src="https://github.com/user-attachments/assets/e3d86698-8f97-4eb6-957c-a4b5e558b049" />
+![Screenshot]<img width="1911" height="942" alt="page 2" src="https://github.com/user-attachments/assets/c4735923-44e5-4083-ada8-5121cff54fe0" />
+![Screenshot]<img width="1916" height="967" alt="page 2 2" src="https://github.com/user-attachments/assets/279f3f3d-99fd-42eb-b31b-3a0d12f09650" />
+![Screenshot]<img width="1917" height="946" alt="page 3" src="https://github.com/user-attachments/assets/3623df15-388b-4a17-b233-6131f4d8517a" />
+![Screenshot]<img width="1920" height="977" alt="page 3 2" src="https://github.com/user-attachments/assets/fec8d4cf-a779-405b-9090-dbe5d51e697d" />
+![Screenshot]<img width="1920" height="972" alt="page 4" src="https://github.com/user-attachments/assets/4c286104-cb49-47c2-9518-d449f07bc06f" />
+![Screenshot]<img width="1916" height="961" alt="page 4 2" src="https://github.com/user-attachments/assets/9056ed7e-8214-443f-8650-18751c3a31d5" />
+![Screenshot]<img width="1915" height="946" alt="page 5" src="https://github.com/user-attachments/assets/de41e00f-059f-4c59-bce9-4186435014be" />
+![Screenshot]<img width="1911" height="956" alt="page 5 2" src="https://github.com/user-attachments/assets/6b413bad-e734-4cf3-bef4-5a3cfc99b4bf" />
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
