@@ -24,7 +24,7 @@ This application is structured for **simple navigation** and a **consistent visu
 ### Core Page Structure
 
 * **Layout** (`app.blade.php`): Serves as the **main template layout** for my application. It contains the essential HTML structure, **navigation bar**, and **footer**, ensuring consistency across all content pages. All other pages extend this layout.
-* **Homepage** (`Homepage.blade.php`): Displays a **welcome message** and acts as the **primary entry point** to the entire photo collection.
+* **Home** (`home.blade.php`): Displays a **welcome message** and acts as the **primary entry point** to the entire photo collection.
 * **Category Pages** (`/views/pages`): Dedicated view files that render specific collections of images. Each page displays all images relevant to its specific category.
 
 ### Categories Included
