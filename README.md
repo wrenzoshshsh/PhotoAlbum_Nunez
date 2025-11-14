@@ -40,17 +40,17 @@ The photo collection is divided into the following different categories:
 ___
 
 ## 📸 Screenshot
-![Screenshot]<img width="1910" height="862" alt="home page" src="https://github.com/user-attachments/assets/44752883-c7b0-486f-9847-004ae6806f46" />
-![Screenshot]<img width="1903" height="952" alt="page 1" src="https://github.com/user-attachments/assets/fea3e27d-7a1d-4f85-a0b4-56b130538127" />
-![Screenshot]<img width="1907" height="965" alt="page 1 2" src="https://github.com/user-attachments/assets/e3d86698-8f97-4eb6-957c-a4b5e558b049" />
-![Screenshot]<img width="1911" height="942" alt="page 2" src="https://github.com/user-attachments/assets/c4735923-44e5-4083-ada8-5121cff54fe0" />
-![Screenshot]<img width="1916" height="967" alt="page 2 2" src="https://github.com/user-attachments/assets/279f3f3d-99fd-42eb-b31b-3a0d12f09650" />
-![Screenshot]<img width="1917" height="946" alt="page 3" src="https://github.com/user-attachments/assets/3623df15-388b-4a17-b233-6131f4d8517a" />
-![Screenshot]<img width="1920" height="977" alt="page 3 2" src="https://github.com/user-attachments/assets/fec8d4cf-a779-405b-9090-dbe5d51e697d" />
-![Screenshot]<img width="1920" height="972" alt="page 4" src="https://github.com/user-attachments/assets/4c286104-cb49-47c2-9518-d449f07bc06f" />
-![Screenshot]<img width="1916" height="961" alt="page 4 2" src="https://github.com/user-attachments/assets/9056ed7e-8214-443f-8650-18751c3a31d5" />
-![Screenshot]<img width="1915" height="946" alt="page 5" src="https://github.com/user-attachments/assets/de41e00f-059f-4c59-bce9-4186435014be" />
-![Screenshot]<img width="1911" height="956" alt="page 5 2" src="https://github.com/user-attachments/assets/6b413bad-e734-4cf3-bef4-5a3cfc99b4bf" />
+<img width="1910" height="862" alt="home page" src="https://github.com/user-attachments/assets/44752883-c7b0-486f-9847-004ae6806f46" />
+<img width="1903" height="952" alt="page 1" src="https://github.com/user-attachments/assets/fea3e27d-7a1d-4f85-a0b4-56b130538127" />
+<img width="1907" height="965" alt="page 1 2" src="https://github.com/user-attachments/assets/e3d86698-8f97-4eb6-957c-a4b5e558b049" />
+<img width="1911" height="942" alt="page 2" src="https://github.com/user-attachments/assets/c4735923-44e5-4083-ada8-5121cff54fe0" />
+<img width="1916" height="967" alt="page 2 2" src="https://github.com/user-attachments/assets/279f3f3d-99fd-42eb-b31b-3a0d12f09650" />
+<img width="1917" height="946" alt="page 3" src="https://github.com/user-attachments/assets/3623df15-388b-4a17-b233-6131f4d8517a" />
+<img width="1920" height="977" alt="page 3 2" src="https://github.com/user-attachments/assets/fec8d4cf-a779-405b-9090-dbe5d51e697d" />
+<img width="1920" height="972" alt="page 4" src="https://github.com/user-attachments/assets/4c286104-cb49-47c2-9518-d449f07bc06f" />
+<img width="1916" height="961" alt="page 4 2" src="https://github.com/user-attachments/assets/9056ed7e-8214-443f-8650-18751c3a31d5" />
+<img width="1915" height="946" alt="page 5" src="https://github.com/user-attachments/assets/de41e00f-059f-4c59-bce9-4186435014be" />
+<img width="1911" height="956" alt="page 5 2" src="https://github.com/user-attachments/assets/6b413bad-e734-4cf3-bef4-5a3cfc99b4bf" />
 
 
 
